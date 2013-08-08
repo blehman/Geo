@@ -18,6 +18,6 @@ $cat GeoTags.piped
 1|['-34.57774', '-58.40581']
 
 $cat GeoTags.piped | makeGeoJASON.py
-#Output in GeoJASON format
+output in GeoJASON format
 
-#push to repo
+push to repo
